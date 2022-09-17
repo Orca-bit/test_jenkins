@@ -1,0 +1,9 @@
+logging:
+  #日志存储地址
+  file: "logs/mytest.log"
+info:
+  name : "mytest"
+
+server:
+  #端口号
+  port: 8888
